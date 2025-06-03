@@ -1,6 +1,6 @@
 # Chest X-ray Pneumonia Detection System
 
-A deep learning-powered diagnostic tool developed using **TensorFlow/Keras**, **OpenCV**, and **Streamlit**, designed to detect pneumonia in chest X-ray images. The system offers explainability features, clinical recommendations, and report generation, supporting fast and accurate diagnosis in low-resource healthcare settings.
+A machine learning-powered diagnostic tool developed using **TensorFlow/Keras**, **OpenCV**, and **Streamlit**, designed to detect pneumonia in chest X-ray images. The system offers explainability features, clinical recommendations, and report generation, supporting fast and accurate diagnosis in low-resource healthcare settings.
 
 ## Table of Contents
 
