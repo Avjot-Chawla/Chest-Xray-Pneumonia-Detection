@@ -18,7 +18,7 @@ A machine learning-powered diagnostic tool developed using **TensorFlow/Keras**,
 
 The **Chest X-ray Pneumonia Detection System** aims to:
 
-* Provide an accessible, AI-assisted method to classify chest X-rays as **Normal** or **Pneumonia**.
+* Provide an accessible, ML-based method to classify chest X-rays as **Normal** or **Pneumonia**.
 * Integrate a trained Convolutional Neural Network (CNN) with a **Streamlit** frontend for seamless user interaction.
 * Offer clinical insights such as saliency maps, severity grading, and follow-up recommendations.
 * Support remote diagnosis by exporting results and advice as a **PDF report** using the `fpdf` library.
